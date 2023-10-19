@@ -18,7 +18,7 @@
       rgba(102, 102, 100, 0.719),
       rgba(88, 88, 104, 0.5)
     ),
-    url("image/black-wall-with-fish-shaped-pattern.jpg");
+    url("../image/black-wall-with-fish-shaped-pattern.jpg");
   /* background-image: url("/image/black-wall-with-fish-shaped-pattern.jpg"); */
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -153,7 +153,7 @@ p {
 .img-items-bestSell {
   width: 70%;
   margin: 20px 15px 20px;
-  background-image: url(image/pexels-leah-kelley-6480707.jpg);
+  background-image: url("../image/pexels-leah-kelley-6480707.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 400px;
@@ -171,7 +171,7 @@ h2 {
   padding-top: 10px;
 }
 .itesm-3-most-sell {
-  background-image: url(image/pexels-leah-kelley-6480707.jpg);
+  background-image: url("../image/pexels-leah-kelley-6480707.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   margin: 20px 15px 20px;
@@ -205,7 +205,7 @@ h2 {
   border-right: 3px solid #7b5244;
 }
 .sprite-icon {
-  background-image: url(../image/images/service-icon.png);
+  background-image: url("../image/images/service-icon.png");
   background-position: cover -55px;
   height: 55px;
   background-repeat: no-repeat;
